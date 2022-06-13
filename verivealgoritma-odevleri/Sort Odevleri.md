@@ -23,9 +23,9 @@ Gerçekleştirilen sıralama işlemi sırasında dizinin tüm elemanlarının te
 # Merge Sort Ödevi
 [16,21,11,8,12,22] dizisinin Merge sort'a göre aşamaları aşağıda anlaşılırlığı artırmak amacıyla şematik olarak gösterilmiştir. Şemadan da görüleceği üzere sayılar arka arkaya bölünmüş daha sonra sıralanarak yeniden birleştirilmiş ve [8,11,12,16,21,22] şeklindeki sıralı dizi elde edilmiştir. Big-O Notasyonu ise O(n.logn)) şeklinde bulunmuştur.
 
-![MergeSort](https://github.com/ouygun/patika-verivealgoritma/blob/main/merge-sort.jpg?raw=true)
+![MergeSort](https://github.com/ouygun/patika-odevler/blob/main/verivealgoritma-odevleri/merge-sort.jpg?raw=true)
 
 # Binary Search Tree Ödevi
 [7,5,1,8,3,6,0,9,4,2] dizisinin binary search tree aşamaları aşağıdaki şekilde gösterilmiştir.
-![BinarySearchTree](https://github.com/ouygun/patika-verivealgoritma/blob/main/binary-search-tree.jpg?raw=true)
+![BinarySearchTree](https://github.com/ouygun/patika-odevler/blob/main/verivealgoritma-odevleri/binary-search-tree.jpg?raw=true)
 
